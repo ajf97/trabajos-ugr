@@ -1,9 +1,9 @@
 [submodule "1GII/FP"]
-	path = 1GII/FP
+	path = 1GII/FP-Fundamentos-programacion
 	url = https://github.com/ajf97/FP-Fundamentos-programacion
 [submodule "1GII/TOC"]
-	path = 1GII/TOC
+	path = 1GII/TOC-Tecnologia-computadores
 	url = https://github.com/ajf97/TOC-Tecnologia-computadores
 [submodule "1GII/MP"]
-	path = 1GII/MP
+	path = 1GII/MP-Metodologia-programacion
 	url = https://github.com/ajf97/MP-Metodologia-programacion
